@@ -54,37 +54,37 @@ sns.histplot(x='Postal Code',data=df)
 
 ```
 # Output
- DATA 
+###  DATA 
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/1.png?raw=true)
 
-DATA HEAD 
+### DATA HEAD 
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/2.png?raw=true)
 
-DATA INFORMATION
+### DATA INFORMATION
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/3.png?raw=true)
 
-DATA DESCRIBE
+### DATA DESCRIBE
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/4.png?raw=true)
 
-DATA NULL VALUES
+### DATA NULL VALUES
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/5.png?raw=true)
 
-DATA'S DATATYPES
+### DATA'S DATATYPES
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/6.png?raw=true)
 
-DATA'S VALUECOUNT
+### DATA'S VALUECOUNT
   ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/7.png?raw=true)
 
-BOXPLOT
+### BOXPLOT
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/8.png?raw=true)
 
-COUNTPLOT
+### COUNTPLOT
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/9.png?raw=true)
 
-DISTRIBUTION PLOT
+### DISTRIBUTION PLOT
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/10.png?raw=true)
 
-HISTOGRAM PLOT
+### HISTOGRAM PLOT
  ![output](https://github.com/VINUTHNA-2004/Ex03-Univariate-Analysis/blob/main/11.png?raw=true)
  
 # Result
